@@ -1,0 +1,8 @@
+Transportation Constraint:
+Wingspan: 15.52 m
+Length: 10.34 m
+(≈1/7 scale)
+
+Weight Approximation: (1/7)^3 * 4,100 kg ≈ 11.953 kg
+
+60cc Constraints:
